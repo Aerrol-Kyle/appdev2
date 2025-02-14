@@ -1,0 +1,21 @@
+Assignment #1: Expectations for this Semester
+Objective:
+This assignment helps you reflect on your goals for this backend development course. By understanding your expectations, I can better tailor the course to meet your needs.
+________________
+
+
+Instructions:
+1. Introduction (100-150 words)
+   * To begin with, I am Aerrol Kyle Santos. I am kind of fond of doing things that suit my style. Regarding the programming languages or technologies, I do know some but I simply cannot say that I have adept skill to use them effectively, but I do have some interest using Figma and planning to hone my skills as a UI/UX Designer there. When it comes to backend, to be frank, I am not used to logics or what so I really struggle when it comes to that, even with frontend development I struggle too. To sum this up, I am interested in a role wherein I don’t get to program instead I get to criticize something and revise them.
+2. Course Expectations (200-300 words)
+   * A knowledge or a skill that I can use to leverage my current state. I do hope to build or understand others someday by learning this God Willing. By achieving them, I think if I were to be a PM this will help me to understand and have insights on what they are doing and help the team to work seamlessly. 
+   * With this, I am not sure yet what I hope to learn in this subject/course. I feel like anything that comes my way naturally should be acquired. So for instance, I’ve stumbled upon mongoDB. I will try my best to learn that or to have knowledge with that so I can understand how my team works and provide a better leading style.
+   * I think with backend development, I can improve the way I use to think, my problem solving skills or perhaps my patience as well. I personally think that with this, I can understand people better and help me become more considerate and empathetic. With those mentioned, I hope I can become a better version of myself, because this knowledge can help me decide where I will go or what career I want to pursue in the near future.
+3. Challenges and Areas for Improvement (150-200 words)
+   * Actually all of them are difficult for me. I'm not going to be hypocritical and say that I don’t find these challenging for me. So I am aiming to at least learn how they work or acquire knowledge with them so that as I said above, I can understand other people effectively.
+   * How do you plan to overcome these challenges during the course? I think I will lean towards being compliant and do as they instructed me. I will try to accomplish most of the task within the timeframe to avoid any other repercussions. Lastly, I think I will also prioritize my mental health as well and will not force anything to happen. That’s a lesson I learned from the past years, I will do my best on my part and won’t let myself be burned out to work consistently.
+4. Expectations from the Instructor (100-150 words)
+   * I do not expect anything that much from you as my instructor sir, I feel like you should just continue what you are doing these past semesters.(e.g. providing reviewers, being so considerate, providing tutorials, and etc.) I think with that being said, we can successfully meet the requirements of this course.
+   * As for this part, I personally like to learn with my own pacing since I’m a really slow learner. So if it’s not too much on your part I think it’s kind of good to have a tutorial that will help me study with my own pacing.) but then again, if it’s going to cause you trouble or too much time, it’s all okay with me, I don’t want to cause you those, your efforts are appreciated as it is too, so thanks be to God.
+5. Final Thoughts (Optional, 50-100 words)
+   * As I mentioned above, I am a slow learner. So I would like to approach this course with more kind of my own pacing and aiming towards not forcing myself that will lead to burning out fast. I cannot work while burned out, I figured that out recently and am having trouble recovering from it, so while figuring that out I set these goals for myself to at least become more compliant and comfortable with the lesson that will come.
