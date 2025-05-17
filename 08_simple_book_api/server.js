@@ -1,23 +1,22 @@
-require('dotenv').config(); // Load environment variables
+require('dotenv').config(); // Load environment variables from .env file
 const express = require('express');
+const connectDB = require('./config/db'); // Import the MongoDB connection function
 const app = express();
-const PORT = process.env.PORT || 3000; // Use PORT from .env or default to 3000
+const PORT = process.env.PORT || 3000;
 
-// Middleware to parse JSON data
-app.use(express.json());
+connectDB(); // Connect to MongoDB Atlas
 
-// Import routes
-const bookRoutes = require('./routes/books');
+app.use(express.json()); // Middleware to parse JSON bodies
 
-// Use routes
-app.use('/api/books', bookRoutes);
+const bookRoutes = require('./routes/booksRoute'); // Import book routes
+app.use('/api/books', bookRoutes); // Use book routes under /api/books
 
-// Root route
+// Root route for API welcome message
 app.get('/', (req, res) => {
     res.send("Simple Book API using Node.js and Express");
 });
 
-// Start the server
+// Start the server and listen on the specified port
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
 });
