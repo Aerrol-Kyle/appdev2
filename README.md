@@ -7,7 +7,7 @@ Now deployed on **Render** and connected to **MongoDB Atlas** for cloud-based da
 
 ## 🌐 Live Deployment
 
-🔗 **URL:** [[https://appdev2-raiu.onrender.com](https://appdev2-raiu.onrender.com)](https://appdev2-raiu.onrender.com/)
+🔗 **URL:** [https://appdev2-raiu.onrender.com]
 
 You can just simply use API tools like **Postman**, **Thunder Client**, etc. to test the endpoints.
 
