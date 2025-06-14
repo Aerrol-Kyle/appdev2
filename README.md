@@ -124,14 +124,3 @@ npm start
 ```
 
 ---
-
-## 📦 Tech Stack
-
-- Node.js  
-- Express.js  
-- MongoDB Atlas  
-- Mongoose  
-- JWT  
-- Bcrypt  
-- Render (Deployment)  
-- Faker.js (for seeding)
